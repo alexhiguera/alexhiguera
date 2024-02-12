@@ -1,16 +1,12 @@
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>**About me**</picture>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 - A passionate Self-taught developer
 - Student of **42 scohol**
 - Currently learning cybersecurity by Self
-<!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
 ### Languages
 ![gnubash](https://img.shields.io/badge/-Bash-000?&logo=gnubash) ![C](https://img.shields.io/badge/-000?&logo=C) ![html5](https://img.shields.io/badge/-Html5-000?&logo=html5) ![css3](https://img.shields.io/badge/-Css3-000?&logo=css3&logoColor=1572B6) ![markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown)
 <!-- ![markmap](https://custom-icon-badges.demolab.com/badge/-Markmap-000?&logo=markmap) -->
@@ -38,11 +34,10 @@
  -->
 
 ### Operative Sistems
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![debian](https://img.shields.io/badge/-Debian-000?&logo=debian&logoColor=A81D33) ![WServer](https://img.shields.io/badge/-Windows%20Server-000?&logo=windows&logoColor=17b) ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=apple)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![debian](https://img.shields.io/badge/-Debian-000?&logo=debian&logoColor=A81D33) ![WServer](https://img.shields.io/badge/-Windows%20-000?&logo=windows&logoColor=17b) ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=apple)
 <!-- TODO: Kali linux -->
 <!-- TODO: ubuntu -->
 <!-- ### Software
-
 
 ### Projects -->
 
@@ -60,7 +55,6 @@
 <!-- --------------------------------------------------------- -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!-- --------------------------------------------------------- -->
-
 <h2>✨Connect with me!✨</h2>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://es.linkedin.com/in/alejandro-higuera-mart%C3%ADnez-658a99132)
