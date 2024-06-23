@@ -75,10 +75,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alexhiguera/alexhiguera/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">🧙‍♂️ A passionate Self-taught developer<br>👨‍🎓 Student of 42 school<br>📚 Currently learning cybersecurity</p>
 
 ###
