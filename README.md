@@ -1,85 +1,84 @@
-# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>**About me**</picture>
+<h1 align="left">Hi 🖖 im Alex!</h1>
 
+###
 
-- A passionate Selftaught developer
-- Student of **42 school**
-- Currently learning cybersecurity by Self
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexhiguera&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=alexhiguera&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexhiguera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+###
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-### Languages
-![gnubash](https://img.shields.io/badge/-Bash-000?&logo=gnubash) ![C](https://img.shields.io/badge/-000?&logo=C) ![html5](https://img.shields.io/badge/-Html5-000?&logo=html5) ![css3](https://img.shields.io/badge/-Css3-000?&logo=css3&logoColor=1572B6) ![markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown)
-<!-- ![markmap](https://custom-icon-badges.demolab.com/badge/-Markmap-000?&logo=markmap) -->
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://custom-icon-badges.demolab.com/badge/SQL-000?logo=database&logoColor=white)
-![mermaid](https://custom-icon-badges.demolab.com/badge/-Mermaid-000?&logo=mermaid) -->
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+</div>
 
-### Technologies
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![git](https://img.shields.io/badge/-Git-000?&logo=git) ![wordpress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress&logoColor=21759B)
-<!-- ![torproject](https://img.shields.io/badge/-TorProject-000?&logo=torproject&logoColor=7D4698) -->
-<!-- ![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
-![vitepress](https://custom-icon-badges.demolab.com/badge/-vitepress-000?logo=vitepress)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=fff) -->
-<!-- ![githubactions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=githubactions) -->
+###
 
-<!-- ### DataBases
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![mysql](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=fff)
-![mysql](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb&logoColor=fff)
-![postgresql](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
- -->
+<img align="right" height="150" src="https://gifdb.com/images/high/ed-edd-n-eddy-writing-down-xarlzs9kt7tossso.gif"  />
 
-### Operative Sistems
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![debian](https://img.shields.io/badge/-Debian-000?&logo=debian&logoColor=A81D33) ![WServer](https://img.shields.io/badge/-Windows%20-000?&logo=windows&logoColor=17b) ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=apple)
-<!-- TODO: Kali linux -->
-<!-- TODO: ubuntu -->
-<!-- ### Software
+###
 
-### Projects -->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
 
-<!-- TODO: meter proyectos -->
-<!-- --------------------------------------------------------- -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<!-- --------------------------------------------------------- -->
+###
 
-|            Personal acount: @alexhiguera                                        |          student acount: @Alexenurduliz42                                      |
-|:--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=alexhiguera&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Alexenurduliz42&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia)|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexhiguera&langs_count=8&theme=algolia&layout=compact) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexenurduliz42&langs_count=8&theme=algolia&layout=compact) |
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="30" alt="gcc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+</div>
 
-<!-- --------------------------------------------------------- -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<!-- --------------------------------------------------------- -->
-<h2>✨Connect with me!✨</h2>
+###
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://es.linkedin.com/in/alejandro-higuera-mart%C3%ADnez-658a99132)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+</div>
 
-<!-- --- //Contador de viewrs
+###
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<img src="https://raw.githubusercontent.com/alexhiguera/alexhiguera/output/snake.svg" alt="Snake animation" />
 
-<p align="center"><img src="https://profile-counter.glitch.me/{alexhiguera}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+###
 
---- -->
+<p align="left">🧙‍♂️ A passionate Self-taught developer<br>👨‍🎓 Student of 42 school<br>📚 Currently learning cybersecurity</p>
 
-
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
