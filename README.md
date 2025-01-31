@@ -9,10 +9,11 @@
 </div>
 
 ###
-
-<a href="https://www.linkedin.com/in/alejandro-higuera-martínez-658a99132/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" style="display: block; margin: auto;">
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/alejandro-higuera-martínez-658a99132/">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5& logoColor=white&labelColor=&style=for-the-badge" height="40" style="display: block; margin: auto;">
+  </a>
+<div>
 
 
 ###
